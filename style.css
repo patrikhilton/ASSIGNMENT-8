@@ -61,11 +61,31 @@ body {
     letter-spacing: 1px;
 }
 
+.contact__form button {
+    width: 202px;
+    height: 48px;
+
+    background-color: #468189;
+    color: #FFFFFF;
+
+    border: none;
+    border-radius: 40px;
+
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 0.1em;
+}
+
 .contact__form input::placeholder,
 .contact__form textarea::placeholder {
     color: white;
     opacity: 1;
     letter-spacing: 3px;
+}
+
+#email {
+    width: 40%;
 }
 
 #regarding {
