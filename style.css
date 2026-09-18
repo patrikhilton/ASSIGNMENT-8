@@ -35,10 +35,9 @@ body {
 .contact__form select {
     background: transparent;
     border: none;
-    border-bottom: 1px solid white;
-    color: white;
+    border-bottom: 1px solid #FFFFFF;
+    color: #FFFFFF;
     font-family: "Roboto", sans-serif;
-    outline: none;
 }
 
 .contact__form input,
@@ -54,7 +53,7 @@ body {
 
 .contact__form label {
     display: block;
-    color: white;
+    color: #FFFFFF;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 12px;
@@ -79,7 +78,7 @@ body {
 
 .contact__form input::placeholder,
 .contact__form textarea::placeholder {
-    color: white;
+    color: #FFFFFF;
     opacity: 1;
     letter-spacing: 3px;
 }
