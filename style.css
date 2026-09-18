@@ -85,9 +85,21 @@ body {
 }
 
 #email {
-    width: 40%;
+    width: 30%;
+}
+
+.contact__image {
+    position: relative;
+    overflow: visible;
+}
+
+.contact__image img {
+    width: 320px;
+    position: absolute;
+    bottom: 0;
+    left: -70px;
 }
 
 #regarding {
-    width: 40%;
+    width: 30%;
 }
